@@ -11,3 +11,5 @@ toString()
 features.performance -> features._performance
 
 wip on share
+
+fix e2e
